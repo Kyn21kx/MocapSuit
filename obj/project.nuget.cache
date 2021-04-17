@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "+HPtCPdPPjtv4ezEo/9YCHQ18nIloYBm0N8xeT10EPuWXyN4BWVBDOB3H8khiMeQgen8jASpPzrxU70eEDzAUA==",
+  "success": true,
+  "projectFilePath": "X:\\Programming\\C#\\MocapReceiver\\MocapReceiver.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nef-e\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\nef-e\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
+    "C:\\Users\\nef-e\\.nuget\\packages\\runtime.linux-arm.runtime.native.system.io.ports\\5.0.0\\runtime.linux-arm.runtime.native.system.io.ports.5.0.0.nupkg.sha512",
+    "C:\\Users\\nef-e\\.nuget\\packages\\runtime.linux-arm64.runtime.native.system.io.ports\\5.0.0\\runtime.linux-arm64.runtime.native.system.io.ports.5.0.0.nupkg.sha512",
+    "C:\\Users\\nef-e\\.nuget\\packages\\runtime.linux-x64.runtime.native.system.io.ports\\5.0.0\\runtime.linux-x64.runtime.native.system.io.ports.5.0.0.nupkg.sha512",
+    "C:\\Users\\nef-e\\.nuget\\packages\\runtime.native.system.io.ports\\5.0.1\\runtime.native.system.io.ports.5.0.1.nupkg.sha512",
+    "C:\\Users\\nef-e\\.nuget\\packages\\runtime.osx-x64.runtime.native.system.io.ports\\5.0.0\\runtime.osx-x64.runtime.native.system.io.ports.5.0.0.nupkg.sha512",
+    "C:\\Users\\nef-e\\.nuget\\packages\\system.io.ports\\5.0.1\\system.io.ports.5.0.1.nupkg.sha512",
+    "C:\\Users\\nef-e\\.nuget\\packages\\system.security.accesscontrol\\5.0.0\\system.security.accesscontrol.5.0.0.nupkg.sha512",
+    "C:\\Users\\nef-e\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
